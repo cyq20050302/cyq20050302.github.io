@@ -1,0 +1,13 @@
+#web_bg {
+  background-image: url("/themes/anzhiyu/source/img/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+[data-theme=dark] #web_bg {
+  background-image: url("/themes/anzhiyu/source/img/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
