@@ -3983,11 +3983,11 @@ body[data-type='about'] #web_bg {
   -webkit-justify-content: center;
   justify-content: center;
   color: var(--anzhiyu-white);
-  background: -webkit-linear-gradient(90deg, #fad0c4 0%, #fad0c4 1%, #ffd1ff 100%);
-  background: -moz-linear-gradient(90deg, #fad0c4 0%, #fad0c4 1%, #ffd1ff 100%);
-  background: -o-linear-gradient(90deg, #fad0c4 0%, #fad0c4 1%, #ffd1ff 100%);
-  background: -ms-linear-gradient(90deg, #fad0c4 0%, #fad0c4 1%, #ffd1ff 100%);
-  background: linear-gradient(0deg, #fad0c4 0%, #fad0c4 1%, #ffd1ff 100%);
+  background: -webkit-linear-gradient(330deg, #5b27ff 0, #00d4ff 100%);
+  background: -moz-linear-gradient(330deg, #5b27ff 0, #00d4ff 100%);
+  background: -o-linear-gradient(330deg, #5b27ff 0, #00d4ff 100%);
+  background: -ms-linear-gradient(330deg, #5b27ff 0, #00d4ff 100%);
+  background: linear-gradient(120deg, #5b27ff 0, #00d4ff 100%);
   background-size: 200%;
   -webkit-animation: gradient 15s ease infinite;
   -moz-animation: gradient 15s ease infinite;
